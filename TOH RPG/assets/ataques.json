@@ -1,0 +1,42 @@
+{
+    "azura": {
+        "atk_1": {
+            "nome": "Eat this, sucker!",
+            "power": 100,
+            "accuracy": 100,
+            "type": "special"
+        },
+        "atk_2": {
+            "nome": "Thorn vault.",
+            "power": 100,
+            "accuracy": 100,
+            "type": "phsical"
+        },
+        "atk_3": {
+            "nome": "Be friend;",
+            "power": 100,
+            "accuracy": 100,
+            "type": "status"
+        },      
+        "atk_4": {
+            "nome": "Thorn vault;",
+            "power": 100,
+            "accuracy": 100,
+            "type": "phsical"
+        }
+    },
+    "gilder_snake": {
+        "atk_1": {
+            "nome": "atk_1",
+            "power": 10,
+            "accuracy": 10,
+            "type": "phisical"
+        },
+        "atk_2": {
+            "nome": "atk_2",
+            "power": 10,
+            "accuracy": 10,
+            "type": "phisical"
+        }
+    }
+}
